@@ -1,0 +1,48 @@
+#main {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    min-height: 544px;
+    border-bottom:solid 6px #4FFF4B;
+}
+
+#mainAbout {
+    margin-top: 50px;
+    margin-right: 30px;
+
+    width: 570px;
+    height: 311px;
+}
+
+.titleAbout {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 30px;    
+    color: #9E6DC2;
+}
+
+#main p {
+    margin-bottom: 24px;
+    font-size: 18px;
+    color: #FBF6FF;
+}
+
+#main a {
+    font-weight: bold;
+    color: #9E6DC2;
+}
+
+#main span {
+    color: #4FFF4B;
+    margin-left: 5px;
+}
+
+#main a:hover {
+    color: #4FFF4B;
+    transition: 0.5s;
+}
+
+.imgAbout {
+    margin-bottom: 64px;
+}
