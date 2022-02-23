@@ -5,3 +5,9 @@
 body {
     background-color: #290742;
 }
+
+#conteiner {
+    background-color: #FBF7FF;
+    width: 100%;
+    min-height: 100vh;
+}

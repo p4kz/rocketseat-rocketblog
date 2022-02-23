@@ -1,0 +1,41 @@
+#notice {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top: 60px;
+}
+
+.mainNotice {
+    width: 569px;
+    height: 546px;
+}
+
+.mainNotice h2{
+    font-size: 24px;
+    font-weight: 700;
+    color: #290742;
+    margin-bottom: 18px;
+}
+
+.mainNotice p {
+    padding-bottom: 18px;
+}
+
+.rightNotice {
+    width: 569px;
+    height: 546px;
+}
+
+.rightNotice h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #290742;
+    margin-top: 24px;
+    margin-bottom: 18px;
+}
+
+.noticeData2{
+    margin-top: 50px;
+}
+
+
