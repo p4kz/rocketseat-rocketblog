@@ -1,6 +1,6 @@
 # Rocket Blog
 <h2>flexbox, wrap, position✔️<h2>
-<p>link: https://p4kz.github.io/food-landing-page/<p>
+<p>link: https://p4kz.github.io/rocketseat-rocketblog/<p>
 <img src="https://cdn.discordapp.com/attachments/920499004343717960/946517331037814804/unknown.png">
 <p>Challenge site<p> 
  https://app.rocketseat.com.br/discover/challenges/rocketblog<br>
