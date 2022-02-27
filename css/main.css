@@ -1,3 +1,4 @@
+
 #main {
     display: flex;
     flex-direction: row;
@@ -52,4 +53,9 @@
 
 .imgAbout img {
     width: 100%;
+}
+
+#main h2:hover {
+    color: #9f6dc2c5;
+    transition: 0.3s;
 }
