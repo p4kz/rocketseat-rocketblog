@@ -1,10 +1,12 @@
 #header {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    margin: 64px 136px; 
+    background-color: #290742;   
+    width: 100%;
+    min-height: 128px;
 }
 
 #title {
@@ -17,12 +19,21 @@
     color: #4FFF4B;
 }
 
-.navBar a{
+.navBar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 350px;
+    height: 70px;
+}
+
+.navBar a {
     font-size: 18px;
     color: #fff;
     font-weight: 400;
     font-style: normal;
-    margin-left: 32px;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
 }
 
 .navBar a:hover {
@@ -32,14 +43,14 @@
     transition: 0.5s;
 }
 
-.search {
+.search { 
     display: flex;
     flex-direction: row;
     border: none;
 }
 
 .search input {
-    width: 330px;
+    width: 240px;
     height: 44px;
     border: none;
     border-radius: 10px 0 0 10px;
@@ -55,4 +66,9 @@
     border-radius: 0 10px 10px 0;
     cursor: pointer;
     background-color: #9E6DC2;
+}
+
+.search button:hover {
+    background-color: #9f6dc2c9;
+    transition: 0.4s;
 }
