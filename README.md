@@ -1,8 +1,17 @@
 # Rocket Blog
-<h2>flexbox, wrap, position✔️<h2>
-<p>link: https://p4kz.github.io/rocketseat-rocketblog/<p>
-<img src="https://cdn.discordapp.com/attachments/920499004343717960/946517331037814804/unknown.png">
-<p>Challenge site<p> 
- https://app.rocketseat.com.br/discover/challenges/rocketblog<br>
-<br>https://efficient-sloth-d85.notion.site/Desafio-RocketBlog-807e38809814423e80469b080444db5e
+
+<p>Tentei fazer o mais minimalista possível.
+ <br>Tentei deixa-la responsiva sem usar o @media e existe 1 ponto de quebra.
+ <br>Coloquei :hover e destino nos links das noticias da pagina.
+ </p>
+ 
+<p>Link: https://p4kz.github.io/rocketseat-rocketblog/<p>
+ 
+<h2>Challenge links</h2> 
+<a href="https://app.rocketseat.com.br/discover/challenges/rocketblog">Rocketseat</a><br>
+<a href="https://www.figma.com/file/VdhVYDn5ovtXVaUY7IkPY7/DD-RocketBlog-Copy?fuid=1072290828919285649">Figma</a><br>
+ <br>
+ <br>
+ 
+<img src="https://cdn.discordapp.com/attachments/920499004343717960/946517331037814804/unknown.png"/>
  
